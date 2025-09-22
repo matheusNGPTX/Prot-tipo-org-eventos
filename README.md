@@ -1,2 +1,4 @@
 # Prot-tipo-org-eventos
-Material de teste
+Login de administrador: admin@eventos
+Logins de usuario: user@eventos
+Senha: 123
