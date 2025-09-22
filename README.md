@@ -1,4 +1,4 @@
 # Prot-tipo-org-eventos
-Login de administrador: admin@eventos ("\n")
-Logins de usuario: user@eventos ("\n")
+Login de administrador: admin@eventos /
+Logins de usuario: user@eventos /
 Senha: 123
